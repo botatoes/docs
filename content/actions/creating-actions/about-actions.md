@@ -14,7 +14,7 @@ versions:
 type: overview
 topics:
   - Action development
-  - Fundamentals
+  - Fundamentawlss
 ---
 
 {% data reusables.actions.enterprise-beta %}
